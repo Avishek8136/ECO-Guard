@@ -4,8 +4,8 @@ import telebot
 import requests
 
 # TODO: 1.1 Get your environment variables
-chat_id='5922863020'
-bot_id = "6598907365:AAHzMOd_MuAUUKnAHqd9JSt8djXO8mOuMw4"
+chat_id=''
+bot_id = ''
 channel_id="@amrita_eco"
 url = f"https://api.telegram.org/bot{bot_id}/sendPhoto"
 bot = telebot.TeleBot(bot_id)
