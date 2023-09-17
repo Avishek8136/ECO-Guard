@@ -1,7 +1,4 @@
-# ECO-Guard: An Integrated AI-
-# Sensor System for Monitoring 
-# Wildlife and Sustainable Forest 
-# Management
+# ECO-Guard: An Integrated AI-Sensor System for Monitoring Wildlife and Sustainable Forest Management
 
 ## Introduction
 
