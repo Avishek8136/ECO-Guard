@@ -1,12 +1,15 @@
-# The Eco-Sense-(AI)Nator
+# ECO-Guard: An Integrated AI-
+# Sensor System for Monitoring 
+# Wildlife and Sustainable Forest 
+# Management
 
 ## Introduction
 
-Welcome to "The Eco-sense-(Ai)Nator" initiative, where environmental responsibility and innovation unite to empower sustainable tourism and wildlife preservation. This work is a result of the collaborative efforts of Ch. Nikhilesh Krishna, Sujay Bharath Raj, N. Kireeti Sai Bharadwaj, and Avishek Rauniyar, students of S2-B.Tech AIE A Batch. We can't wait to tell you about our experience and the amazing results of this project.
+Welcome to "The ECO-Guard" initiative, where environmental responsibility and innovation unite to empower sustainable tourism and wildlife preservation. This work is a result of the collaborative efforts of Ch. Nikhilesh Krishna, Sujay Bharath Raj, N. Kireeti Sai Bharadwaj, and Avishek Rauniyar, students of S2-B.Tech AIE A Batch. We can't wait to tell you about our experience and the amazing results of this project.
 
 ## Project Overview
 
-🌿"The Eco-sense-(Ai)Nator" is a cautious effort that addresses critical Sustainable Development Goals (SDGs), including 🌱 Responsible Consumption and Production (SDG 12), Climate Action (SDG 13), 🦓 Life on Land (SDG 15), 🚀 Industry, Innovation, and Infrastructure (SDG 9), 🏙️ Sustainable Cities and Communities (SDG 11), and 🤝 Partnerships for the Goals (SDG 17). 
+🌿"The ECO-Guard" is a cautious effort that addresses critical Sustainable Development Goals (SDGs), including 🌱 Responsible Consumption and Production (SDG 12), Climate Action (SDG 13), 🦓 Life on Land (SDG 15), 🚀 Industry, Innovation, and Infrastructure (SDG 9), 🏙️ Sustainable Cities and Communities (SDG 11), and 🤝 Partnerships for the Goals (SDG 17). 
 
 ### Abstract
 
@@ -24,7 +27,7 @@ Our project is centered around an integrated IoT system designed to transform th
 
 ## Project Showcase
 
-We had the privilege of presenting "The Eco-sense-(Ai)Nator" at the "UNLEASHING THE IMPACT OF SDG IN REAL WORLD APPLICATION OF ENERGY AND AI" expo and poster presentation hosted by the School of Computing and School of Engineering at Amrita Vishwa Vidyapeetham, Kollam, India, on August 17th, 2023. 
+We had the privilege of presenting "The ECO-Guard" at the "UNLEASHING THE IMPACT OF SDG IN REAL WORLD APPLICATION OF ENERGY AND AI" expo and poster presentation hosted by the School of Computing and School of Engineering at Amrita Vishwa Vidyapeetham, Kollam, India, on August 17th, 2023. 
 
 ## Acknowledgments
 
@@ -58,4 +61,4 @@ We invite you to join us on this transformative journey toward harmonizing human
 - #UNESCO
 - #UNDP
 
-Thank you for your interest in "The Eco-sense-(Ai)Nator" project. Together, we can make a positive impact on our environment and the world. 🌱🌎
+Thank you for your interest in "The ECO-Guard" project. Together, we can make a positive impact on our environment and the world. 🌱🌎
