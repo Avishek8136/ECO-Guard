@@ -58,4 +58,6 @@ We invite you to join us on this transformative journey toward harmonizing human
 - #UNESCO
 - #UNDP
 
+Checkout our publication for this work on: <a href="https://link.springer.com/chapter/10.1007/978-981-99-9489-2_36"> ECO-Guard | Springer Nature</a>
+
 Thank you for your interest in "The ECO-Guard" project. Together, we can make a positive impact on our environment and the world. 🌱🌎
