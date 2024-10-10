@@ -26,6 +26,10 @@ Our project is centered around an integrated IoT system designed to transform th
 
 We had the privilege of presenting "The ECO-Guard" at the "UNLEASHING THE IMPACT OF SDG IN REAL WORLD APPLICATION OF ENERGY AND AI" expo and poster presentation hosted by the School of Computing and School of Engineering at Amrita Vishwa Vidyapeetham, Kollam, India, on August 17th, 2023. 
 
+
+https://github.com/user-attachments/assets/48cc9516-676e-42f7-8b9b-f12cb3791e85
+
+
 ## Acknowledgments
 
 Our heartfelt gratitude goes out to the following individuals and organizations for their unwavering support:
