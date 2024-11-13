@@ -94,7 +94,7 @@ This video provides a comprehensive overview of the project, including setup, da
 
 - Follow the above setup steps.
 - Use the provided Streamlit web app for live monitoring at [ecoguardamrita.streamlit.app](https://ecoguardamrita.streamlit.app/).
-- Use the telegram channel to view all the predictions made by ECO-Guard at [ECO-Guard Telegram Group](https://t.me/amrita_eco}
+- Use the telegram channel to view all the predictions made by ECO-Guard at [ECO-Guard Telegram Group](https://t.me/amrita_eco).
 ## Acknowledgments
 
 We extend our heartfelt gratitude to:
