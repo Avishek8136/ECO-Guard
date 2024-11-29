@@ -72,7 +72,7 @@ For more details, view our publication: [ECO-Guard | Springer Nature](https://li
 
 To see the ECO-Guard system in action, please watch our demo video:
 
-[![Demo Video - Working Model](https://img.youtube.com/vi/YaQ-8vPQmXA/0.jpg)](https://www.youtube.com/watch?v=YaQ-8vPQmXA)
+[![Demo Video - Working Model](https://img.youtube.com/vi/3LPhSc2ukEk/0.jpg)](https://www.youtube.com/watch?v=3LPhSc2ukEk)
 
 This video provides a comprehensive overview of the project, including setup, data gathering, and real-time monitoring of environmental and wildlife metrics.
 
